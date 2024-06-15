@@ -1,10 +1,12 @@
 #Pizza Sales SQL Analysis Project
 
-*Overview
+Overview
+
  This project delves into the intricate details of pizza sales data through comprehensive SQL analysis. Our objective is to uncover patterns, trends, and 
  insights that can drive strategic business decisions for pizzerias.
 
 *Objectives
+
  Sales Trends: 
  Identify peak sales periods and understand customer purchasing behavior.
 
